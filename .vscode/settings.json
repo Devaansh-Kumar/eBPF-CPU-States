@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "bpf_helpers.h": "c",
+        "bpf.h": "c",
+        "bpf_tracing.h": "c",
+        "sched.h": "c",
+        "types.h": "c",
+        "ptrace.h": "c",
+        "vmlinux.h": "c",
+        "process_state.skel.h": "c",
+        "process_state.h": "c",
+        "stdio.h": "c",
+        "posix_types.h": "c",
+        "int-ll64.h": "c",
+        "bpf_helper_defs.h": "c",
+        "ttydefaults.h": "c",
+        "ioctl-types.h": "c",
+        "ioctls.h": "c",
+        "ioctl.h": "c",
+        "features.h": "c"
+    }
+}
